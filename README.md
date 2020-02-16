@@ -1,2 +1,2 @@
 # fork-test
-Test syncing with a fork
+Test syncing with a fork of a public repo
